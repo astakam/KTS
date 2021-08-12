@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Kamboj's The Spice"
+theme = "spice"
+publishDir = "docs"
